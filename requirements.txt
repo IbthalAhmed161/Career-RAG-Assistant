@@ -5,3 +5,4 @@ sentence-transformers>=3.0
 faiss-cpu>=1.8
 numpy>=1.26
 requests>=2.31
+torch
